@@ -1,0 +1,26 @@
+body {
+    background-color: #182737;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    margin-left: 100;
+    margin-right: 100;
+}
+a {
+color:white
+}
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: green;
+} 
+a:hover {
+    color: green;;
+}
+  
+a:active {
+    color: green;
+}
